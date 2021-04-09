@@ -1,6 +1,6 @@
 hub Molarao_lab_hub
 shortLabel Molaro_lab_hub
 longLabel Molaro_Lab_hub_for_ATAC-Seq_analysis
-genomesFile genomes.txt
+genomesFile https://raw.githubusercontent.com/JorisBI63/TrackHub/main/genomes.txt
 email joris.mordier@uca.fr
 descriptionUrl MolaroLabHub.html
